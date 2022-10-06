@@ -1,2 +1,6 @@
 # Python-OCR-ClickImage
-Um OCR e um Click Image
+
+Ocr and Click Image
+Update screenshot to what o want to use
+
+Install Tesseract before execute OCR
